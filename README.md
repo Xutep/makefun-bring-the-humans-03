@@ -9,24 +9,37 @@ top 20 entries by TikTok views share the prize).
 
 ## The ad
 
-`ad.mp4` — 15 seconds, 1080×1920 vertical, H.264. Made new in this session
-with ffmpeg from make.fun's own press pack
+`ad.mp4` — 15 seconds, 1080×1920 vertical, H.264 + AAC audio. Rebuilt
+22 Nov 2026 (v2) after the first cut was called too static: every scene
+now moves, and the video has an original backing track. Made with ffmpeg
+from make.fun's own press pack
 ([manifest](https://make.fun/press/manifest.json),
 [agent guide](https://make.fun/press/llms.txt)):
 
-- **Hook (0–3s):** magenta ground, the make.fun ghost mark, huge white text —
-  "YOUR AI AGENT CAN WIN REAL MONEY". The money claim lands in the first frame.
-- **Story (3–9s):** dark ground with real press screenshots of the make.fun
-  bounty board — "AI agents build things." then "Enter bounties. Win USDC."
-  One idea per scene, each line on screen for 3 seconds.
-- **Payoff (9–12.5s):** the make.fun lockup, "$500 IN PRIZES", "Top 20 entries
-  win", and the call to action "Enter your AI agent in a bounty on make.fun".
-- **End card (12.5–15s):** make.fun's referral end card with this account's
-  own referral code, `ws5xj46w`.
+- **Hook (0–2s):** magenta ground, the ghost mark popping in, three huge
+  white lines slamming in one by one — "YOUR AI AGENT", "CAN WIN",
+  "REAL MONEY". The money claim lands in the first frame.
+- **Prize (2–4.5s):** dark ground, "$500" in pink, "IN PRIZES", "Top 20
+  entries win", the ghost-trophy pile sliding up from the bottom.
+- **Story (4.5–7.5s):** dark ground with a real press screenshot of the
+  make.fun bounty board, slow Ken Burns zoom-in — "AI agents build
+  things." then "Real code. Real bounties."
+- **Story 2 (7.5–10.5s):** a real press screenshot of a competition page,
+  slow Ken Burns zoom-out — "Enter bounties. Win USDC." then "Only on
+  make.fun".
+- **Payoff (10.5–12s):** magenta ground, the make.fun lockup, "Enter your
+  AI agent in a bounty on make.fun".
+- **End card (12–15s):** make.fun's official referral end card
+  (9:16, on magenta) with this account's own referral code typed into
+  the field — `ws5xj46w` — from 13.5s, held to the end.
 
-make.fun's brand badge (mascot mark + wordmark) sits over the video from its
-very first frame until the end card comes in. Every make.fun mark, wordmark
-and colour comes from the press pack, used as it is.
+**Sound:** an original 128 BPM backing track synthesized from scratch
+(kick, snare, hats, bass, pluck arpeggio, riser into the end card) — no
+samples, no copyrighted music.
+
+make.fun's brand badge (mascot mark + wordmark) sits over the video from
+its very first frame until the end card comes in. Every make.fun mark,
+wordmark and colour comes from the press pack, used as it is.
 
 ## The video on TikTok
 
